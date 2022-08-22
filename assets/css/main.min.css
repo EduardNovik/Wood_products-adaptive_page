@@ -4,73 +4,73 @@
 @charset "UTF-8";
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Thin"), local("Roboto-Thin"), url(/assets/fonts/roboto/Robotothin.woff2) format("woff2"), url(/assets/fonts/roboto/Robotothin.woff) format("woff"), url(/assets/fonts/roboto/Robotothin.ttf) format("truetype");
+  src: local("Roboto Thin"), local("Roboto-Thin"), url(../fonts/roboto/Robotothin.woff2) format("woff2"), url(../fonts/roboto/Robotothin.woff) format("woff"), url(../fonts/roboto/Robotothin.ttf) format("truetype");
   font-weight: 100;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Thin Italic"), local("Roboto-ThinItalic"), url(/assets/fonts/roboto/Robotothinitalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotothinitalic.woff) format("woff"), url(/assets/fonts/roboto/Robotothinitalic.ttf) format("truetype");
+  src: local("Roboto Thin Italic"), local("Roboto-ThinItalic"), url(../fonts/roboto/Robotothinitalic.woff2) format("woff2"), url(../fonts/roboto/Robotothinitalic.woff) format("woff"), url(../fonts/roboto/Robotothinitalic.ttf) format("truetype");
   font-weight: 100;
   font-style: italic;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Light"), local("Roboto-Light"), url(/assets/fonts/roboto/Robotolight.woff2) format("woff2"), url(/assets/fonts/roboto/Robotolight.woff) format("woff"), url(/assets/fonts/roboto/Robotolight.ttf) format("truetype");
+  src: local("Roboto Light"), local("Roboto-Light"), url(../fonts/roboto/Robotolight.woff2) format("woff2"), url(../fonts/roboto/Robotolight.woff) format("woff"), url(../fonts/roboto/Robotolight.ttf) format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(/assets/fonts/roboto/Robotolightitalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotolightitalic.woff) format("woff"), url(/assets/fonts/roboto/Robotolightitalic.ttf) format("truetype");
+  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(../fonts/roboto/Robotolightitalic.woff2) format("woff2"), url(../fonts/roboto/Robotolightitalic.woff) format("woff"), url(../fonts/roboto/Robotolightitalic.ttf) format("truetype");
   font-weight: 300;
   font-style: italic;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto"), local("Roboto-Regular"), url(/assets/fonts/roboto/Roboto.woff2) format("woff2"), url(/assets/fonts/roboto/Roboto.woff) format("woff"), url(/assets/fonts/roboto/Roboto.ttf) format("truetype");
+  src: local("Roboto"), local("Roboto-Regular"), url(../fonts/roboto/Roboto.woff2) format("woff2"), url(../fonts/roboto/Roboto.woff) format("woff"), url(../fonts/roboto/Roboto.ttf) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Italic"), local("Roboto-Italic"), url(/assets/fonts/roboto/Robotoitalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotoitalic.woff) format("woff"), url(/assets/fonts/roboto/Robotoitalic.ttf) format("truetype");
+  src: local("Roboto Italic"), local("Roboto-Italic"), url(../fonts/roboto/Robotoitalic.woff2) format("woff2"), url(../fonts/roboto/Robotoitalic.woff) format("woff"), url(../fonts/roboto/Robotoitalic.ttf) format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Medium"), local("Roboto-Medium"), url(/assets/fonts/roboto/Robotomedium.woff2) format("woff2"), url(/assets/fonts/roboto/Robotomedium.woff) format("woff"), url(/assets/fonts/roboto/Robotomedium.ttf) format("truetype");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url(../fonts/roboto/Robotomedium.woff2)  format("woff2"), url(../fonts/roboto/Robotomedium.woff) format("woff"), url(../fonts/roboto/Robotomedium.ttf) format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Medium Italic"), local("Roboto-MediumItalic"), url(/assets/fonts/roboto/Robotomediumitalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotomediumitalic.woff) format("woff"), url(/assets/fonts/roboto/Robotomediumitalic.ttf) format("truetype");
+  src: local("Roboto Medium Italic"), local("Roboto-MediumItalic"), url(../fonts/roboto/Robotomediumitalic.woff2) format("woff2"), url(../fonts/roboto/Robotomediumitalic.woff) format("woff"), url(../fonts/roboto/Robotomediumitalic.ttf) format("truetype");
   font-weight: 500;
   font-style: italic;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold"), local("Roboto-Bold"), url(/assets/fonts/roboto/Robotobold.woff2) format("woff2"), url(/assets/fonts/roboto/Robotobold.woff) format("woff"), url(/assets/fonts/roboto/Robotobold.ttf) format("truetype");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url(../fonts/roboto/Robotobold.woff2) format("woff2"), url(../fonts/roboto/Robotobold.woff) format("woff"), url(../fonts/roboto/Robotobold.ttf) format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url(/assets/fonts/roboto/Robotobolditalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotobolditalic.woff) format("woff"), url(/assets/fonts/roboto/Robotobolditalic.ttf) format("truetype");
+  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url(../fonts/roboto/Robotobolditalic.woff2) format("woff2"), url(../fonts/roboto/Robotobolditalic.woff) format("woff"), url(../fonts/roboto/Robotobolditalic.ttf) format("truetype");
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Black"), local("Roboto-Black"), url(/assets/fonts/roboto/Robotoblack.woff2) format("woff2"), url(/assets/fonts/roboto/Robotoblack.woff) format("woff"), url(/assets/fonts/roboto/Robotoblack.ttf) format("truetype");
+  src: local("Roboto Black"), local("Roboto-Black"), url(../fonts/roboto/Robotoblack.woff2) format("woff2"), url(../fonts/roboto/Robotoblack.woff) format("woff"), url(../fonts/roboto/Robotoblack.ttf) format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: local("Roboto Black Italic"), local("Roboto-BlackItalic"), url(/assets/fonts/roboto/Robotoblackitalic.woff2) format("woff2"), url(/assets/fonts/roboto/Robotoblackitalic.woff) format("woff"), url(/assets/fonts/roboto/Robotoblackitalic.ttf) format("truetype");
+  src: local("Roboto Black Italic"), local("Roboto-BlackItalic"), url(../fonts/roboto/Robotoblackitalic.woff2) format("woff2"), url(../fonts/roboto/Robotoblackitalic.woff) format("woff"), url(../fonts/roboto/Robotoblackitalic.ttf) format("truetype");
   font-weight: 900;
   font-style: italic;
 }
@@ -804,7 +804,7 @@ body :focus:not(.focus-visible) {
 
 @font-face {
   font-family: "Kyiv";
-  src: url(/assets/fonts/roboto/KyivTypeSans-Regular-.woff) format("woff"), url(/assets/fonts/roboto/KyivTypeSans-Regular-.woff2) format("woff2");
+  src: url(../fonts/roboto/KyivTypeSans-Regular-.woff) format("woff"), url(../fonts/roboto/KyivTypeSans-Regular-.woff2) format("woff2");
 }
 .btn {
   background-color: #728BAD;
@@ -847,60 +847,60 @@ body {
 }
 
 .bg {
-  background: url(/assets/img/vector-bg.png), url(/assets/img/wood-bg.png) left top/auto no-repeat, #222021;
+  background: url(../img/vector-bg.png), url(../img/wood-bg.png) left top/auto no-repeat, #222021;
 }
 @media screen and (min-width: 576px) {
   .bg {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
   }
 }
 @media screen and (min-width: 768px) {
   .bg {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
   }
 }
 @media screen and (min-width: 1200px) {
   .bg {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-bg-dsk.png) left top/63% no-repeat, #222021;
   }
 }
 .bg-404 {
   display: flex;
   flex-direction: column;
   /* height: 100vh; */
-  background: url(/assets/img/vector-bg.png), url(/assets/img/wood-404mob.png) left top/auto no-repeat, #222021;
+  background: url(../img/vector-bg.png), url(../img/wood-404mob.png) left top/auto no-repeat, #222021;
 }
 @media screen and (min-width: 576px) {
   .bg-404 {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-404dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-404dsk.png) left top/63% no-repeat, #222021;
   }
 }
 @media screen and (min-width: 768px) {
   .bg-404 {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-404dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-404dsk.png) left top/63% no-repeat, #222021;
   }
 }
 @media screen and (min-width: 1200px) {
   .bg-404 {
-    background: url(/assets/img/vector-dsk-bg.png), url(/assets/img/wood-404dsk.png) left top/63% no-repeat, #222021;
+    background: url(../img/vector-dsk-bg.png), url(../img/wood-404dsk.png) left top/63% no-repeat, #222021;
   }
 }
 .bg-vectors {
-  background: url(/assets/img/vector-bg.png), #222021;
+  background: url(../img/vector-bg.png), #222021;
 }
 @media screen and (min-width: 576px) {
   .bg-vectors {
-    background: url(/assets/img/vector-dsk-bg.png), #222021;
+    background: url(../img/vector-dsk-bg.png), #222021;
   }
 }
 @media screen and (min-width: 768px) {
   .bg-vectors {
-    background: url(/assets/img/vector-dsk-bg.png), #222021;
+    background: url(../img/vector-dsk-bg.png), #222021;
   }
 }
 @media screen and (min-width: 1200px) {
   .bg-vectors {
-    background: url(/assets/img/vector-dsk-bg.png), #222021;
+    background: url(../img/vector-dsk-bg.png), #222021;
   }
 }
 
@@ -1718,13 +1718,13 @@ body {
   margin: 0 auto;
 }
 .block4-1 ul li {
-  list-style: url(/assets/img/bullet-y.svg);
+  list-style: url(../img/bullet-y.svg);
   text-align: left;
   margin-bottom: 7px;
 }
 @media screen and (min-width: 768px) {
   .block4-1 ul li {
-    list-style: url(/assets/img/bullet-y-dsk.svg);
+    list-style: url(../img/bullet-y-dsk.svg);
     margin-bottom: 20px;
   }
 }
@@ -1735,11 +1735,11 @@ body {
 }
 .block4-1 ul li:last-child {
   margin-bottom: 0px;
-  list-style: url(/assets/img/bullet-n.svg);
+  list-style: url(../img/bullet-n.svg);
 }
 @media screen and (min-width: 768px) {
   .block4-1 ul li:last-child {
-    list-style: url(/assets/img/bullet-n-dsk.svg);
+    list-style: url(../img/bullet-n-dsk.svg);
   }
 }
 .buk-pic {
@@ -2377,25 +2377,25 @@ body {
 }
 
 .b10-txt1::before {
-  content: url(/assets/img/footer-phone-mob.svg);
+  content: url(../img/footer-phone-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b10-txt1::before {
-    content: url(/assets/img/footer-phone.svg);
+    content: url(../img/footer-phone.svg);
     margin-right: 19px;
   }
 }
 
 .b10-txt2::before {
-  content: url(/assets/img/footer_location-mob.svg);
+  content: url(../img/footer_location-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b10-txt2::before {
-    content: url(/assets/img/footer_location.svg);
+    content: url(../img/footer_location.svg);
     margin-right: 19px;
   }
 }
@@ -2537,13 +2537,13 @@ footer {
   }
 }
 .b9-txt1::before {
-  content: url(/assets/img/footer-phone-mob.svg);
+  content: url(../img/footer-phone-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b9-txt1::before {
-    content: url(/assets/img/footer-phone.svg);
+    content: url(../img/footer-phone.svg);
     margin-right: 19px;
   }
 }
@@ -2557,13 +2557,13 @@ footer {
   }
 }
 .b9-txt2::before {
-  content: url(/assets/img/footer_location-mob.svg);
+  content: url(../img/footer_location-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b9-txt2::before {
-    content: url(/assets/img/footer_location.svg);
+    content: url(../img/footer_location.svg);
     margin-right: 19px;
   }
 }
@@ -2583,13 +2583,13 @@ footer {
   }
 }
 .b9-txt3::before {
-  content: url(/assets/img/footer_location-mob.svg);
+  content: url(../img/footer_location-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b9-txt3::before {
-    content: url(/assets/img/footer_location.svg);
+    content: url(../img/footer_location.svg);
     margin-right: 19px;
   }
 }
@@ -2609,13 +2609,13 @@ footer {
   }
 }
 .b9-txt4::before {
-  content: url(/assets/img/footer-phone-mob.svg);
+  content: url(../img/footer-phone-mob.svg);
   vertical-align: middle;
   margin-right: 10px;
 }
 @media screen and (min-width: 1200px) {
   .b9-txt4::before {
-    content: url(/assets/img/footer-phone.svg);
+    content: url(../img/footer-phone.svg);
     margin-right: 19px;
   }
 }
@@ -2795,7 +2795,7 @@ body {
   position: absolute;
   width: 15px;
   height: 15px;
-  background-image: url(/assets/img/arrow.svg);
+  background-image: url(../img/arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
